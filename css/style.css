@@ -31,5 +31,5 @@ body {
 .main > p:hover,
 .main > h1:hover {
   transition: 1s;
-  opacity: 0.5;
+  opacity: 0.49;
 }
